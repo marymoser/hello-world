@@ -1,3 +1,2 @@
 # hello-world
-My first repository, to get me started.
-So far I've learned to create repositories, issues, and new branches. Pretty cool.
+Some major changes will occur here.
